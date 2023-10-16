@@ -1,0 +1,2 @@
+class NameTooShort(Exception):
+    pass
